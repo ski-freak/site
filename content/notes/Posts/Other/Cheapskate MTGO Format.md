@@ -6,23 +6,23 @@ tags:
   - posts
 ---
 # Cheapskate Format
-Aka PD with randomized set based rotation, using goatbots pricing.
+Aka PD with randomized set based rotation, using [Goatbots](https://www.goatbots.com/) pricing.
 
 To be clear, this is expected to be played by a handful of players at most, and mostly created for the sake of seeing how it goes and maybe having a bit of fun trying it with a few other people.
 
 Current legal card list can be found here: https://moxfield.com/binders/oE-TpllCHU6LtnLPpjk2-A/
-Yes, it allows for scryfall searches, however, you cannot sort, only filter, which is a bit unfortunate.
+Yes, it allows for Scryfall searches, however, you cannot sort, only filter, which is a bit unfortunate.
 ## Card legality and rotation
-All cards at or below 2 cents on goatbots have a chance to be legal.
+All cards at or below 2 cents on Goatbots have a chance to be legal.
 To determine legal cards:
 1. Select 60% of magic sets at random, most recent set guaranteed to be legal.
 2. Select 70% of the cards from each selected set at random.
-3. Cut out all cards above 2 cents on goatbots.
+3. Cut out all cards above 2 cents on Goatbots.
 - This is now the card pool.
 
 Notes:
 - With these numbers, any given card <=2 cent card has a 42% chance to be legal in a given season, and 17% chance to be legal 2 seasons in a row. These numbers can be adjusted / we can try different ones for a few seasons to see what works.
-- There are roughly 22,500 <=2 cent cards on goatbots, 27,000 cards on mtgo, and 14,500 legal in PD.
+- There are roughly 22,500 <=2 cent cards on Goatbots, 27,000 cards on mtgo, and 14,500 legal in PD.
 
 ## The format uses the Vintage ban list in addition to the following cards:
 Channel
