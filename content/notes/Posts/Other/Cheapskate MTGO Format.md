@@ -10,8 +10,7 @@ Aka PD with randomized set based rotation, using [Goatbots](https://www.goatbots
 
 To be clear, this is expected to be played by a handful of players at most, and mostly created for the sake of seeing how it goes and maybe having a bit of fun trying it with a few other people.
 
-Current legal card list can be found here: https://moxfield.com/binders/oE-TpllCHU6LtnLPpjk2-A/
-Yes, it allows for Scryfall searches, however, you cannot sort, only filter, which is a bit unfortunate.
+Current legal card list can be found [here](https://moxfield.com/binders/oE-TpllCHU6LtnLPpjk2-A/). It allows for Scryfall searches, however, you cannot sort, only filter, which is a bit unfortunate but mostly workable.
 ## Card legality and rotation
 All cards at or below 2 cents on Goatbots have a chance to be legal.
 To determine legal cards:
