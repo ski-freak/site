@@ -30,6 +30,7 @@ Notes:
 ## Ban List
 The format uses the Vintage ban list in addition to the following cards:
 
+```
 Channel
 Mental Misstep
 Sol Ring
@@ -37,8 +38,30 @@ High Tide
 Balance
 Flash
 Library of Alexandria
+```
 
 Banned cards are persistent across rotations and not updated during a season. The ban list is only be updated during rotation.
+
+## Land Whitelist
+The following land cycles are guaranteed to be legal if they are <=2 cents:
+- Basic lands
+- Basic snow lands
+- Checklands
+- Painlands
+- Ravnica Bouncelands
+- Bridges
+- Future Sight lands
+- Filterlands (both Odyssey and Lorwyn)
+- Tango lands
+- Snarl / Reveal lands
+- Snow Duals
+- 2c cycling lands
+- Mono color cycling lands (cycling for 1 pip)
+
+Lands to consider adding:
+- Vivid lands
+- Landscapes
+- Arcum's Astrolabe
 
 ### Changing the ban list & rules
 For a given card to be banned or unbanned, the change is made by a majority vote among players. This will take place between seasons. Any player who has played during the previous season can add cards (limit of 2) to the ban vote and vote on all proposed format changes. Changes to these format rules are also decided by majority vote.
