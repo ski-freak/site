@@ -60,3 +60,6 @@ So some quirks I am aware of or at least believe to be the case given the method
 - The calculation of legal cards is done before the determining of which cards are cheap, which may affect the percentage of legal cards from the expected 42% (this prediction derived from 60% * 70% = 42%).
 - In practice about 52% of cards are legal instead of the expected 42%. I have no idea why this is, I'm probably just not understanding/missing some consequence of the methodology, I'd guess that is more likely than the script calculating things wrong. Maybe it's because of the cards appearing in multiple sets thing not being calculated into the simple probability multiplication I did for the prediction.
 - The exact number of cards which are legal each season even with the same pool of sets is slightly random, for example I ran it twice and once i got 12242 legal cards and another time I got 11973. This due to some sets containing more cards than other but it is possible there are other causes as well.
+
+
+To see another example rotation to know how it may vary over time, [here](https://moxfield.com/binders/NO004OFt8kShCV3gXuCovQ) is another one I generated.
