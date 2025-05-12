@@ -24,7 +24,9 @@ Notes:
 - With these numbers, any given card <=2 cent card has a 42% chance to be legal in a given season, and 17% chance to be legal 2 seasons in a row. These numbers can be adjusted / we can try different ones for a few seasons to see what works.
 - There are roughly 22,500 <=2 cent cards on Goatbots, 27,000 cards on mtgo, and 14,500 legal in PD.
 
-## The format uses the Vintage ban list in addition to the following cards:
+## Ban List
+The format uses the Vintage ban list in addition to the following cards:
+
 Channel
 Mental Misstep
 Sol Ring
@@ -40,7 +42,7 @@ For a given card to be banned or unbanned, the change is made by a majority vote
 
 
 ---
-### Extra notes:
+## Extra notes:
 Legal cards list is calculated with a python script (which I got chatgpt to make because im too bad at programming lol). I can throw the files up on discord or smth.
 
 Files used:
