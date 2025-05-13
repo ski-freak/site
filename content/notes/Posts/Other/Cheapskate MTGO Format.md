@@ -23,7 +23,7 @@ After following these steps, you have generated the cheapskate card pool.
 
 Notes:
 - 'Regular' set means it was printed into standard/modern at some point and is not just a reprint or commander set or something. Those sets tend to have a very small number of unique cards on mtgo, so including them in the set calculation screws with the numbers a lot (they represent a tiny fraction of the total legal cards).
-- With these numbers, any given card <=2 cent card has a 42% chance to be legal in a given season, and 17% chance to be legal 2 seasons in a row. These numbers can be adjusted / we can try different ones for a few seasons to see what works. This was selected to 
+- With these numbers, any given card <=2 cent card has a 42-65% (upper number is an estimate) chance to be legal in a given season, and 17-42% chance to be legal 2 seasons in a row. These numbers can be adjusted / we can try different ones for a few seasons to see what works. This was selected to 
 - There are roughly 22,500 <=2 cent cards on Goatbots, 27,000 cards on mtgo, and 14,500 legal in PD. There are 10,158 cards legal in Cheapskate currently.
 - The objective of the set based rotation and these particular numbers is to have a volatile rotation where sets being legal or illegal textures the format, while leaving some cards out of selected sets ensures that the same set being legal in multiple seasons does not feel like an exact repeat. The 60% number could go down or 70% could go up a little bit, and this idea would likely be retained or strengthened at the cost of a smaller card pool.
 
@@ -63,16 +63,92 @@ Lands to consider adding:
 - Landscapes
 - Arcum's Astrolabe
 
-### Changing the ban list & rules
+## Changing the ban list & rules
 For a given card to be banned or unbanned, the change is made by a majority vote among players. This will take place between seasons. Any player who has played during the previous season can add cards (limit of 2) to the ban vote and vote on all proposed format changes. Changes to these format rules are also decided by majority vote.
+
+## Current Rotation's Sets:
+```
+1E
+5DN
+7E
+9ED
+AFR
+AKH
+ALA
+ALL
+ARB
+AVR
+BFZ
+BLB
+BOK
+CHK
+CON
+CSP
+DIS
+DKA
+DTK
+EMN
+FRF
+FUT
+GPT
+GRN
+GTC
+HOU
+ICE
+IKO
+ISD
+JUD
+KHM
+KTK
+LCI
+LGN
+LRW
+M12
+M13
+M15
+M20
+M21
+MH1
+MH2
+MH3
+MID
+MKM
+MOM
+NE
+OGW
+ONE
+ONS
+ORI
+OTJ
+PR
+RAV
+RTR
+SHM
+SOI
+SOK
+SOM
+ST
+TDM
+TE
+THS
+TSP
+UD
+UL
+VOW
+WL
+WOE
+WWK
+XLN
+ZEN
+```
 
 
 ---
 ## Extra notes:
-Legal cards list is calculated with a python script (which I got chatgpt to make because im too bad at programming lol). I can throw the files up on discord or smth.
+Legal cards list is calculated with a python script. I can throw the files up on discord or smth.
 
 So some quirks I am aware of or at least believe to be the case given the methodology:
 - Cards which appear in multiple regular sets are more likely to be legal.
 - The exact number of cards which are legal each season even with the same pool of sets is slightly random, for example I ran it twice and once i got 12242 legal cards and another time I got 11973. This due to some sets containing more cards than others.
 
-To see another sample rotation to know how it may vary over time, [here](https://moxfield.com/binders/NO004OFt8kShCV3gXuCovQ) is another one I generated.
+To see other sample rotations to know how it may vary over time, [here](https://moxfield.com/binders/AYJb3TsxeUmrI2YmOQCxew/) and [here]() are additional ones I generated (to be clear this was done after the currently in use one was generated, they were not hand picked from).
