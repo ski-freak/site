@@ -152,3 +152,5 @@ So some quirks I am aware of or at least believe to be the case given the method
 - The exact number of cards which are legal each season even with the same pool of sets is slightly random, for example I ran it twice and once i got 12242 legal cards and another time I got 11973. This due to some sets containing more cards than others.
 
 To see other sample rotations to know how it may vary over time, [here](https://moxfield.com/binders/AYJb3TsxeUmrI2YmOQCxew/) and [here]() are additional ones I generated (to be clear this was done after the currently in use one was generated, they were not hand picked from).
+
+test change
