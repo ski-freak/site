@@ -16,7 +16,7 @@ Before rendering, you need to ensure you have the correct in game settings as we
 	- Bloom and Lens Flare - I set this to medium but it may or may not matter
 	- Motion blur OFF
 - This isn't in the video settings, but disable advertisements, obviously.
-Alternatively to doing this manually, you can download this [config file](https://github.com/ski-freak/MarkdownPublic/blob/main/Default.json), and replace your `Documents\Trackmania\Config\Default.json` file with it. This will set all of the above settings.
+Alternatively to doing this manually, you can download this [config file](https://ski-freak.github.io/site/notes/attachments/Default.json), and replace your `Documents\Trackmania\Config\Default.json` file with it. This will set all of the above settings.
 ### Render Settings
 Now open the map or replay you would like to render from (in map or replay editor. If you are opening a replay click on open in editor.) We will be using the AVI button in the bottom left to render. There is a set of random things you need to check before actually rendering, but lets go over these settings in the AVI button first.
 

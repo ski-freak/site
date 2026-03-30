@@ -21,7 +21,6 @@ You may know me from one of my self titled youtube channels or Trackmania mappin
 This is kind of just a place to quickly dump my thoughts, I don't put nearly as much time or effort into these as my youtube videos, and I mostly just write some shit down and call it done.
 - [Reflections](./tags/reflections) - Just me talking about videos and other projects I completed.
 - [TM Theory](./tags/tmtheory) - Trackmania chatting so I don't have to retype things over and over on discord.
-- [WIP Video](./tags/wipvideo) - Work in progress video scripts. I put these here to share with others to get feedback, usually via links. If you have insight on or are otherwise rather knowledgeable on the topic of any of these, feel free to send me a message on discord (@skifreak). I can always use more information, fact checking, or ideas for interesting things to include.
 
 Posts that don't fit into any of these can still be found under the [#Posts](./tags/posts) tag, including some small ones also going by the ideas tag. 
 
